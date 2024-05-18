@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import axios from "axios";
 import TextField from "@mui/material/TextField";
 import Box from "@mui/material/Box";
 import Typography from "@mui/material/Typography";
@@ -7,7 +6,6 @@ import AnimeButton from "./button";
 
 const SubscribeForm = () => {
   const [email, setEmail] = useState("");
-  const [message, setMessage] = useState("");
 
   const handleSubmit = async (e) => {
     console.log("email submit");
@@ -41,11 +39,6 @@ const SubscribeForm = () => {
         onClick={handleSubmit}
         sx={{ width: "100%", maxWidth: "400px" }}
       />
-      {message && (
-        <Typography variant="body1" color="primary" sx={{ mt: 2 }}>
-          {message}
-        </Typography>
-      )}
     </Box>
   );
 };
