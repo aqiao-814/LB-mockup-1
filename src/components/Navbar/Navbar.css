@@ -1,0 +1,99 @@
+.ant-breadcrumb {
+  font-size: 18px;
+  padding: 16px 0;
+}
+
+.ant-breadcrumb svg {
+  font-size: 18px;
+}
+
+.ant-breadcrumb-link svg {
+  margin: 0 7px;
+}
+
+.ant-breadcrumb-separator {
+  margin: 0 12px;
+  color: #666;
+}
+
+.ant-breadcrumb-link {
+  background-color: transparent !important;
+}
+.navbar-container .breadcrumb .ant-breadcrumb-link a {
+  text-decoration: none;
+}
+
+.navbar-container .breadcrumb .ant-breadcrumb-link a:hover {
+  text-decoration: none;
+  background: none;
+}
+
+.logo-container {
+  position: absolute;
+  top: -20px;
+  right: -10px;
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  max-width: 80px;
+  height: 100px;
+}
+
+@media (min-width: 600px) {
+  .ant-breadcrumb {
+    font-size: 20px;
+    padding: 20px 0;
+  }
+
+  .ant-breadcrumb svg {
+    font-size: 20px;
+  }
+
+  .ant-breadcrumb-link svg {
+    margin: 0 15px;
+  }
+
+  .ant-breadcrumb-separator {
+    margin: 0 20px;
+  }
+
+  .logo-container {
+    top: -15px;
+    right: -10px;
+  }
+
+  .logo {
+    max-width: 100px;
+    height: 100px;
+  }
+}
+
+@media (min-width: 900px) {
+  .ant-breadcrumb {
+    font-size: 22px;
+    padding: 24px 0;
+  }
+
+  .ant-breadcrumb svg {
+    font-size: 22px;
+  }
+
+  .ant-breadcrumb-link svg {
+    margin: 0 20px;
+  }
+
+  .ant-breadcrumb-separator {
+    margin: 0 16px;
+  }
+  .logo-container {
+    top: -15px;
+    right: 0px;
+  }
+
+  .logo {
+    max-width: 100px;
+    height: 100px;
+  }
+}

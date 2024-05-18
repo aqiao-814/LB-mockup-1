@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1179.58 464.17">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 20.74px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        stroke: #221f20;
+      }
+
+      .cls-1, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        stroke-linecap: round;
+      }
+
+      .cls-2 {
+        stroke-linecap: square;
+        stroke-width: 23.53px;
+      }
+
+      .cls-3 {
+        stroke-width: 20.72px;
+      }
+
+      .cls-4 {
+        stroke-width: 22.68px;
+      }
+
+      .cls-5 {
+        stroke-width: 18.2px;
+      }
+
+      .cls-6 {
+        stroke-width: 28.35px;
+      }
+
+      .cls-7 {
+        stroke-width: 23.84px;
+      }
+
+      .cls-8 {
+        fill: #221f20;
+        font-family: ArialRoundedMTBold, 'Arial Rounded MT Bold';
+        font-size: 140px;
+      }
+    </style>
+  </defs>
+  <polyline class="cls-5" points="369.41 238.96 616.81 238.96 616.81 84.24 286.68 84.24"/>
+  <line class="cls-2" x1="573.56" y1="101.94" x2="573.56" y2="233.6"/>
+  <path class="cls-1" d="m643.78,84.53v154.14c44.8,0,81.12-34.5,81.12-77.07s-36.32-77.07-81.12-77.07Z"/>
+  <text class="cls-8" transform="translate(375.21 361.47)"><tspan x="0" y="0">UDIO</tspan></text>
+  <line class="cls-4" x1="323.98" y1="153.37" x2="323.58" y2="349.09"/>
+  <line class="cls-7" x1="219.24" y1="251.05" x2="219.24" y2="346.58"/>
+  <path class="cls-3" d="m284.66,86.03l-89.13,53.03c-33.08,18.27-35.11,25.75,4.26,31.31l35.42,7.83c55.98,12.7,64.59,63.4,18.98,66.6h-102.39"/>
+  <line class="cls-6" x1="198.53" y1="141.97" x2="197.15" y2="165.98"/>
+  <line class="cls-4" x1="285" y1="153.37" x2="362.96" y2="153.37"/>
+</svg>

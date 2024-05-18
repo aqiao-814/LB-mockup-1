@@ -1,0 +1,37 @@
+.text {
+  font-weight: 600;
+  font-size: 2em;
+  will-change: opacity;
+}
+
+.text2 {
+  font-weight: 300;
+  font-size: 1em;
+  will-change: opacity;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  height: 100%;
+  justify-content: center;
+}
+
+@media (min-width: 600px) {
+  .text {
+    font-size: 4em;
+  }
+  .text2 {
+    font-size: 2em;
+  }
+}
+
+@media (min-width: 900px) {
+  .text {
+    font-size: 6em;
+  }
+  .text2 {
+    font-size: 3em;
+  }
+}
