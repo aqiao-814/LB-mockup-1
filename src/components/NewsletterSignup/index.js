@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import TextField from "@mui/material/TextField";
 import Box from "@mui/material/Box";
-import Typography from "@mui/material/Typography";
 import AnimeButton from "./button";
 
 const SubscribeForm = () => {
